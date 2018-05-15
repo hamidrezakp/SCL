@@ -8,7 +8,7 @@ from sys import argv
 
 #Settings
 #manage-mode password
-_Pass = b'\xd3[\xcd\xea:&e[\xb3\x85\xad\xd3\xa7\xf6\xeb\xdb'
+_Pass = b'q\xe3l\x8d^\x90\xe1\xe5\x07(]G\x08eLi'
 #limit of attemps in a cycle in seconds
 _Limit = 5
 #limit time must be between attemps in seconds
