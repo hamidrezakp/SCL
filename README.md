@@ -10,12 +10,12 @@ the default password is `until1400`. you can login to Manage-Mode by swich `mm`.
 currently settings are store in program . so you can change your settings in program file.
 
 # Todo
-*make program output colorful.
-*store settings in db file.
-*seprate settings for any user.
-*logging users attemps for getting access.
-*do executing command in program.
-*make Manage-Mode more powerful.
+*make program output colorful.  
+*store settings in db file.  
+*seprate settings for any user.  
+*logging users attemps for getting access.  
+*do executing command in program.  
+*make Manage-Mode more powerful.  
 
 # Last Thing
 Hope enjoy program ;) 
